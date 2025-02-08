@@ -18,6 +18,10 @@ A fully responsive Netflix UI clone built using HTML & CSS. This project is a pi
 -CSS3 (Flexbox, Grid, Animations)
 
 
+## 🎥 Demo Video  
+[Watch on GitHub Releases](https://github.com/HR1937/Netflix_UI_Clone/releases/tag/Netflix_Clone_UI)
+
+
 🤝 Contributing
 
 Feel free to fork this repo, improve it, and make a pull request.
